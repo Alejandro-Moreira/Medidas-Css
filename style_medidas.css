@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+main{
+    background-color: red;
+    width: 100%;
+    height: 500px;
+}
+main div{
+    font-size: 1.6rem;
+}
+body{
+    font-size: 20px;
+}
+p{
+    font-size: 4rem; 
+}
+html{
+    font-size: 62.5%;
+}
+.text-container{
+    font-size: 1em; 
+} /*20 pixeles es un em, 1.5em es 20 x 1.5 y es el tamaño de pixeles de la fuente*/
+.text-container div{
+    font-size: 1.5em; 
+}
